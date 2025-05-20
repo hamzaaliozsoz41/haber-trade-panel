@@ -1,1 +1,4 @@
 src/TradeNewsPanel.js
+import React, { useState, useEffect } from "react";
+// ...
+// (kodu tekrar yazmamı istersen hemen atarım)
